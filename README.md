@@ -1,7 +1,7 @@
 
-Run npm install to install all the dependencies.
+First,use "npm install" command to install all the dependencies.
 
-Use npm start to run the code.
+Second,use "npm start" command to run the code.
 
 Open [https://localhost:3000](https://localhost:3000) to view it in the browser.
 
