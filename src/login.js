@@ -28,8 +28,6 @@ const Login = (props) => {
     <div className="pa4 tc">
   
 
-    <h1>Spoonshot search</h1>
-
                 <FacebookLogin
                     appId="295743641137618"
                     fields="name,email,picture"
